@@ -114,11 +114,11 @@ Tools
 
 🧠 **Solve** &nbsp;&nbsp;&nbsp;&nbsp; → &nbsp;&nbsp;&nbsp;&nbsp; 💻 **Build** &nbsp;&nbsp;&nbsp;&nbsp; → &nbsp;&nbsp;&nbsp;&nbsp; 🤖 **Integrate** &nbsp;&nbsp;&nbsp;&nbsp; → &nbsp;&nbsp;&nbsp;&nbsp; 🚀 **Ship**
 
-<br><br>
+<br>
 
 <small>DSA &nbsp; • &nbsp; Full Stack &nbsp; • &nbsp; AI Integration &nbsp; • &nbsp; Real-World Projects</small>
 
 </div>
 
-<br>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:2563eb,100:111827" width="100%" alt="footer"/>

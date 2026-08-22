@@ -10,18 +10,19 @@
 
 </div>
 
-👋 About Me
+## 👋 About Me
 
 - 🎓 **AIML undergraduate** focused on building practical software and turning ideas into useful products.
 - 💻 **Strengthening C++ & DSA** while exploring full-stack development with React, Node.js, Express, and MongoDB.
 - 🤖 **Exploring AI integration** and building projects that combine technology with real-world problems.
 
-> 🚀 **Build → Learn → Solve → Iterate**
 
-🚀 Featured Projects
+<br>
+
+## 🚀 Featured Projects
 
 <table>
-<tr>
+<tr >
 <td width="50%" valign="top">
 
 🧠 REPCODE
@@ -51,7 +52,7 @@ Focus: AI Travel Culture Web
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#0d1117">
 
 🌱 CropSense
 
@@ -65,7 +66,7 @@ Status: In progress
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#0d1117">
 
 ♻️ EcoCycle
 
@@ -79,7 +80,9 @@ A team project exploring e-waste collection and recycling through a web platform
 </tr>
 </table>
 
-🧰 Tech Stack
+<br>
+
+## 🧰 Tech Stack
 
 <div align="center">
 
@@ -101,33 +104,21 @@ Tools
 
 </div>
 
-🎯 Current Direction
-
-<table>
-<tr>
-<td align="center" width="25%"><b>01</b><br>🧠<br><b>DSA</b><br><sub>Problem solving</sub></td>
-<td align="center" width="25%"><b>02</b><br>💻<br><b>Full Stack</b><br><sub>React · Node</sub></td>
-<td align="center" width="25%"><b>03</b><br>🤖<br><b>AI</b><br><sub>Practical integration</sub></td>
-<td align="center" width="25%"><b>04</b><br>🚀<br><b>Projects</b><br><sub>Build & iterate</sub></td>
-</tr>
-</table>
-
-📫 Connect
-
-<div align="center">
-
-<a href="mailto:vatsalya0609@gmail.com">Email</a>
- · 
-<a href="https://www.linkedin.com/in/vatsalya-gupta-72446539a/">LinkedIn</a>
- · 
-<a href="https://leetcode.com/u/Vatsalyagupta/">LeetCode</a>
- · 
-<a href="https://www.geeksforgeeks.org/profile/vatsalyagupta">GeeksforGeeks</a>
 
 <br><br>
 
-<sub>Building · Learning · Iterating 🚀</sub>
+
+## 🎯 Current Direction
+
+<div align="center">
+
+🧠 **Solve** &nbsp;&nbsp;&nbsp;&nbsp; → &nbsp;&nbsp;&nbsp;&nbsp; 💻 **Build** &nbsp;&nbsp;&nbsp;&nbsp; → &nbsp;&nbsp;&nbsp;&nbsp; 🤖 **Integrate** &nbsp;&nbsp;&nbsp;&nbsp; → &nbsp;&nbsp;&nbsp;&nbsp; 🚀 **Ship**
+
+<br><br>
+
+<small>DSA &nbsp; • &nbsp; Full Stack &nbsp; • &nbsp; AI Integration &nbsp; • &nbsp; Real-World Projects</small>
 
 </div>
 
+<br>
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:2563eb,100:111827" width="100%" alt="footer"/>

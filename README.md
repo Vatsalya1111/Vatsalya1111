@@ -1,150 +1,162 @@
 <div align="center">
 
-# Hey 👋, I'm Vatsalya Gupta
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=header&text=Vatsalya%20Gupta&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&color=0:111827,100:2563eb" alt="Vatsalya Gupta header"/>
 
-### AIML Undergraduate · Software Developer · AI Enthusiast
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=AIML+Undergraduate+%7C+Software+Developer;C%2B%2B+%7C+Web+Development+%7C+AI;Building+practical+software+and+learning+by+shipping" alt="Typing introduction"/>
 
-Building practical software at the intersection of **AI, web development, and problem solving.**
+<br>
 
-<p>
-  <a href="https://github.com/Vatsalya1111">
-    <img src="https://img.shields.io/badge/GitHub-Vatsalya1111-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/vatsalya-gupta-72446539">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://leetcode.com/u/Vatsalyagupta/">
-    <img src="https://img.shields.io/badge/LeetCode-Vatsalyagupta-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-  <a href="https://www.geeksforgeeks.org/profile/vatsalyagupta">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
-  </a>
-</p>
+<a href="https://github.com/Vatsalya1111" aria-label="GitHub">
+  <img src="https://cdn.simpleicons.org/github/ffffff" width="30" height="30" alt="GitHub"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/vatsalya-gupta-72446539" aria-label="LinkedIn">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://leetcode.com/u/Vatsalyagupta/" aria-label="LeetCode">
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="30" height="30" alt="LeetCode"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.geeksforgeeks.org/profile/vatsalyagupta" aria-label="GeeksforGeeks">
+  <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="30" height="30" alt="GeeksforGeeks"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:vatsalya0609@gmail.com" aria-label="Email">
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="30" height="30" alt="Email"/>
+</a>
 
 </div>
 
----
+⚡ About
 
-## 🧭 About Me
+I'm an AIML undergraduate focused on building practical software, strengthening my C++ / DSA foundations, and exploring how AI can make useful products smarter.
 
-I'm an **AIML undergraduate** interested in building useful software rather than learning technologies in isolation.
+Build → Learn → Solve → Iterate
 
-- 🚀 Currently building **[CropSense](https://github.com/Vatsalya1111/CropSense)** for sustainable agriculture
-- 🧠 Strengthening my foundations in **C++ and DSA**
-- ⚛️ Building with **React, Node.js and Express**
-- 🤖 Exploring **AI integration and practical AI applications**
-- 🛠️ I learn best by turning ideas into working projects
-- 📍 Based in India
+🚧 Currently building
 
----
+CropSense — a project focused on technology for sustainable agriculture.
 
-## 🛠️ Tech Stack
+🧠 Currently exploring
 
-### Languages
+C++ · DSA · React · Node.js · Express · MongoDB · AI Integration
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,js" alt="Languages"/>
-</p>
-
-### Web & Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,nodejs,express" alt="Web and Backend"/>
-</p>
-
-### Data & AI
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,tensorflow,pytorch" alt="Data and AI"/>
-</p>
-
-### Tools & Environment
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,figma,vscode" alt="Tools"/>
-</p>
-
----
-
-## 🚀 Featured Projects
+🚀 Featured Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌱 CropSense
+🧠 REPCODE
 
-Technology-driven solution focused on **sustainable agriculture**.
+A project-memory system for capturing technical decisions and querying project knowledge with AI.
 
-**Status:** 🚧 In progress
+Stack: Next.js TypeScript Tailwind Groq Membrain
 
-[View Repository →](https://github.com/Vatsalya1111/CropSense)
+<a href="https://github.com/Vatsalya1111/repcode">
+  <img src="https://img.shields.io/badge/%20View%20Repository-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="REPCODE repository"/>
+</a>
+&nbsp;
+<a href="https://repcode-five.vercel.app">
+  <img src="https://img.shields.io/badge/%20Live%20Demo-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="REPCODE live demo"/>
+</a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 Cultura Chatbot
+🤖 Cultura Chatbot
 
-AI-powered **cultural guide and travel companion** focused on Karnataka.
+An AI cultural guide and travel companion focused on Karnataka.
 
-**Focus:** AI · Web · Conversational Experience
+Focus: AI Travel Culture Web
 
-[View Project →](https://github.com/Vatsalya1111)
+<a href="https://github.com/Vatsalya1111">
+  <img src="https://img.shields.io/badge/%20More%20Projects-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="More projects"/>
+</a>
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔎 Lost & Found Campus System
+🌱 CropSense
 
-A team project designed to help manage **lost and found items within a campus environment**.
+A project exploring technology-driven approaches for sustainable agriculture.
 
-[View Repository →](https://github.com/Sania-2006/lost-and-found-system)
+Status: In progress
+
+<a href="https://github.com/Vatsalya1111/CropSense">
+  <img src="https://img.shields.io/badge/%20Repository-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="CropSense repository"/>
+</a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### ♻️ EcoCycle
+♻️ EcoCycle
 
-A team project exploring **sustainable e-waste collection and recycling** through a web platform.
+A team project exploring e-waste collection and recycling through a web platform.
 
-[View Repository →](https://github.com/SaileshDas/Eco-cycle-website)
+<a href="https://github.com/SaileshDas/Eco-cycle-website">
+  <img src="https://img.shields.io/badge/%20Repository-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="EcoCycle repository"/>
+</a>
 
 </td>
 </tr>
 </table>
 
----
-
-## 📊 GitHub Analytics
+🧰 Tech Stack
 
 <div align="center">
 
-<a href="https://github.com/Vatsalya1111">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Vatsalya1111&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="Vatsalya's GitHub Stats"/>
-</a>
+Languages
 
-<a href="https://github.com/Vatsalya1111">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vatsalya1111&layout=compact&hide_border=true&langs_count=6&theme=transparent" alt="Vatsalya's Top Languages"/>
-</a>
+<img src="https://skillicons.dev/icons?i=cpp,python,java,js" alt="C++, Python, Java, JavaScript"/>
+
+Web & Backend
+
+<img src="https://skillicons.dev/icons?i=react,html,css,nodejs,express" alt="React, HTML, CSS, Node.js, Express"/>
+
+Data & AI
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,tensorflow,pytorch" alt="MongoDB, MySQL, TensorFlow, PyTorch"/>
+
+Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,figma,vscode" alt="Git, GitHub, Docker, Linux, Figma, VS Code"/>
 
 </div>
 
----
+🎯 Current Direction
 
-## 🧩 What I'm Focused On
+<table>
+<tr>
+<td align="center" width="25%"><b>01</b><br>🧠<br><b>DSA</b><br><sub>Problem solving</sub></td>
+<td align="center" width="25%"><b>02</b><br>💻<br><b>Full Stack</b><br><sub>React · Node</sub></td>
+<td align="center" width="25%"><b>03</b><br>🤖<br><b>AI</b><br><sub>Practical integration</sub></td>
+<td align="center" width="25%"><b>04</b><br>🚀<br><b>Projects</b><br><sub>Build & iterate</sub></td>
+</tr>
+</table>
 
-```text
-DSA & Problem Solving
-        ↓
-C++ Fundamentals
-        ↓
-Full-Stack Development
-        ↓
-AI Integration
-        ↓
-Building Real-World Projects
+📫 Connect
+
+<div align="center">
+
+<a href="mailto:vatsalya0609@gmail.com">Email</a>
+ · 
+<a href="https://www.linkedin.com/in/vatsalya-gupta-72446539">LinkedIn</a>
+ · 
+<a href="https://leetcode.com/u/Vatsalyagupta/">LeetCode</a>
+ · 
+<a href="https://www.geeksforgeeks.org/profile/vatsalyagupta">GeeksforGeeks</a>
+
+<br><br>
+
+<sub>Building · Learning · Iterating 🚀</sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:2563eb,100:111827" width="100%" alt="footer"/>

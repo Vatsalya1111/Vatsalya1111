@@ -6,41 +6,17 @@
 
 <br>
 
-<a href="https://github.com/Vatsalya1111" aria-label="GitHub">
-  <img src="https://cdn.simpleicons.org/github/ffffff" width="30" height="30" alt="GitHub"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/vatsalya-gupta-72446539" aria-label="LinkedIn">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30" alt="LinkedIn"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://leetcode.com/u/Vatsalyagupta/" aria-label="LeetCode">
-  <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="30" height="30" alt="LeetCode"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.geeksforgeeks.org/profile/vatsalyagupta" aria-label="GeeksforGeeks">
-  <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="30" height="30" alt="GeeksforGeeks"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="mailto:vatsalya0609@gmail.com" aria-label="Email">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="30" height="30" alt="Email"/>
-</a>
+<a href="https://github.com/Vatsalya1111"><img src="https://cdn.simpleicons.org/github/ffffff" width="30" height="30" alt="GitHub"/></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/vatsalya-gupta-72446539a/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;<a href="https://leetcode.com/u/Vatsalyagupta/"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="30" height="30" alt="LeetCode"/></a>&nbsp;&nbsp;&nbsp;<a href="https://www.geeksforgeeks.org/profile/vatsalyagupta"><img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="30" height="30" alt="GeeksforGeeks"/></a>&nbsp;&nbsp;&nbsp;<a href="mailto:vatsalya0609@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="30" height="30" alt="Email"/></a>
 
 </div>
 
-⚡ About
+👋 About Me
 
-I'm an AIML undergraduate focused on building practical software, strengthening my C++ / DSA foundations, and exploring how AI can make useful products smarter.
+- 🎓 **AIML undergraduate** focused on building practical software and turning ideas into useful products.
+- 💻 **Strengthening C++ & DSA** while exploring full-stack development with React, Node.js, Express, and MongoDB.
+- 🤖 **Exploring AI integration** and building projects that combine technology with real-world problems.
 
-Build → Learn → Solve → Iterate
-
-🚧 Currently building
-
-CropSense — a project focused on technology for sustainable agriculture.
-
-🧠 Currently exploring
-
-C++ · DSA · React · Node.js · Express · MongoDB · AI Integration
+> 🚀 **Build → Learn → Solve → Iterate**
 
 🚀 Featured Projects
 
@@ -54,13 +30,7 @@ A project-memory system for capturing technical decisions and querying project k
 
 Stack: Next.js TypeScript Tailwind Groq Membrain
 
-<a href="https://github.com/Vatsalya1111/repcode">
-  <img src="https://img.shields.io/badge/%20View%20Repository-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="REPCODE repository"/>
-</a>
-&nbsp;
-<a href="https://repcode-five.vercel.app">
-  <img src="https://img.shields.io/badge/%20Live%20Demo-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="REPCODE live demo"/>
-</a>
+[![Repository](https://img.shields.io/badge/Repository-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vatsalya1111/repcode) [![Live%20Demo](https://img.shields.io/badge/Live%20Demo-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://repcode-five.vercel.app)
 
 </td>
 
@@ -72,8 +42,9 @@ An AI cultural guide and travel companion focused on Karnataka.
 
 Focus: AI Travel Culture Web
 
-<a href="https://github.com/Vatsalya1111">
-  <img src="https://img.shields.io/badge/%20More%20Projects-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="More projects"/>
+<a href="https://github.com/SaileshDas/Cultura-chatbot">
+  
+  <img src="https://img.shields.io/badge/%20Repository-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="Cultura repository"/>
 </a>
 
 </td>
@@ -147,7 +118,7 @@ Tools
 
 <a href="mailto:vatsalya0609@gmail.com">Email</a>
  · 
-<a href="https://www.linkedin.com/in/vatsalya-gupta-72446539">LinkedIn</a>
+<a href="https://www.linkedin.com/in/vatsalya-gupta-72446539a/">LinkedIn</a>
  · 
 <a href="https://leetcode.com/u/Vatsalyagupta/">LeetCode</a>
  · 

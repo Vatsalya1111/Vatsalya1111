@@ -1,128 +1,150 @@
-::: {align="center"}
+<div align="center">
 
-Hey 👋, I'm Vatsalya Gupta
+# Hey 👋, I'm Vatsalya Gupta
 
-AIML undergraduate · Building practical AI & web solutions
+### AIML Undergraduate · Software Developer · AI Enthusiast
 
-<p>
-
-<a href="https://github.com/Vatsalya1111">{=html}
-<img src="https://img.shields.io/badge/GitHub-Vatsalya1111-181717?style=flat-square&logo=github" alt="GitHub">{=html}
-</a>{=html}
-<a href="https://www.linkedin.com/in/vatsalya-gupta-72446539">{=html}
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">{=html}
-</a>{=html} <a href="https://leetcode.com/u/Vatsalyagupta/">{=html}
-<img src="https://img.shields.io/badge/LeetCode-Vatsalyagupta-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode">{=html}
-</a>{=html}
-<a href="https://www.geeksforgeeks.org/profile/vatsalyagupta">{=html}
-<img src="https://img.shields.io/badge/GFG-Profile-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks">{=html}
-</a>{=html}
-
-</p>
-
-:::
-
-About
-
-I'm an AIML undergraduate interested in the intersection of
-software development, AI, and problem solving.
-
-I enjoy turning ideas into working products, learning by building, and
-strengthening my fundamentals through C++ and DSA.
-
-🔭 Currently building
-CropSense for
-sustainable agriculture
-
-🌱 Currently learning DSA, advanced React, backend development &
-AI integration
-
-🧩 Interested in AI-powered applications, full-stack development &
-practical problem solving
-
-💬 Ask me about C++, DSA, React, Node.js and AI projects
-
-📫 Reach me at vatsalya0609@gmail.com
-
-Tech Stack
-
-Languages
+Building practical software at the intersection of **AI, web development, and problem solving.**
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=cpp,python,java,js" alt="Languages">{=html}
-
+  <a href="https://github.com/Vatsalya1111">
+    <img src="https://img.shields.io/badge/GitHub-Vatsalya1111-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/vatsalya-gupta-72446539">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/u/Vatsalyagupta/">
+    <img src="https://img.shields.io/badge/LeetCode-Vatsalyagupta-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/vatsalyagupta">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+  </a>
 </p>
 
-Web & Backend
+</div>
+
+---
+
+## 🧭 About Me
+
+I'm an **AIML undergraduate** interested in building useful software rather than learning technologies in isolation.
+
+- 🚀 Currently building **[CropSense](https://github.com/Vatsalya1111/CropSense)** for sustainable agriculture
+- 🧠 Strengthening my foundations in **C++ and DSA**
+- ⚛️ Building with **React, Node.js and Express**
+- 🤖 Exploring **AI integration and practical AI applications**
+- 🛠️ I learn best by turning ideas into working projects
+- 📍 Based in India
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=react,html,css,nodejs,express" alt="Web and Backend">{=html}
-
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,js" alt="Languages"/>
 </p>
 
-Data & AI
+### Web & Backend
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,pytorch,tensorflow" alt="Data and AI">{=html}
-
+  <img src="https://skillicons.dev/icons?i=react,html,css,nodejs,express" alt="Web and Backend"/>
 </p>
 
-Tools
+### Data & AI
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,figma" alt="Tools">{=html}
-
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,tensorflow,pytorch" alt="Data and AI"/>
 </p>
 
-Featured Projects
-
-Project                                                           What it is
-
-🌱 CropSense     Current project focused on
-technology for sustainable
-agriculture.
-
-🤖 Cultura Chatbot                                            AI cultural guide and travel
-companion focused on Karnataka.
-
-🔎 Lost & Found Campus                                         Team project for managing campus
-System    lost-and-found items.
-
-More projects and experiments are available across my repositories.
-
-GitHub Analytics
-
-::: {align="center"}
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vatsalya1111&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent" alt="Vatsalya's GitHub stats">{=html}
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vatsalya1111&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Top languages">{=html}
-:::
-
-<br>{=html}
-
-::: {align="center"}
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vatsalya1111&hide_border=true&bg_color=00000000&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff" alt="GitHub contribution activity graph">{=html}
-:::
-
-Coding Profiles
+### Tools & Environment
 
 <p>
-
-<a href="https://leetcode.com/u/Vatsalyagupta/">{=html}LeetCode</a>{=html}
-·
-<a href="https://www.geeksforgeeks.org/profile/vatsalyagupta">{=html}GeeksforGeeks</a>{=html}
-
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,figma,vscode" alt="Tools"/>
 </p>
 
-::: {align="center"}
+---
 
-Building, learning, iterating.
+## 🚀 Featured Projects
 
-<a href="https://github.com/Vatsalya1111">{=html}
-<img src="https://komarev.com/ghpvc/?username=Vatsalya1111&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">{=html}
-</a>{=html}
-:::
+<table>
+<tr>
+<td width="50%">
+
+### 🌱 CropSense
+
+Technology-driven solution focused on **sustainable agriculture**.
+
+**Status:** 🚧 In progress
+
+[View Repository →](https://github.com/Vatsalya1111/CropSense)
+
+</td>
+
+<td width="50%">
+
+### 🤖 Cultura Chatbot
+
+AI-powered **cultural guide and travel companion** focused on Karnataka.
+
+**Focus:** AI · Web · Conversational Experience
+
+[View Project →](https://github.com/Vatsalya1111)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🔎 Lost & Found Campus System
+
+A team project designed to help manage **lost and found items within a campus environment**.
+
+[View Repository →](https://github.com/Sania-2006/lost-and-found-system)
+
+</td>
+
+<td width="50%">
+
+### ♻️ EcoCycle
+
+A team project exploring **sustainable e-waste collection and recycling** through a web platform.
+
+[View Repository →](https://github.com/SaileshDas/Eco-cycle-website)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/Vatsalya1111">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Vatsalya1111&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="Vatsalya's GitHub Stats"/>
+</a>
+
+<a href="https://github.com/Vatsalya1111">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vatsalya1111&layout=compact&hide_border=true&langs_count=6&theme=transparent" alt="Vatsalya's Top Languages"/>
+</a>
+
+</div>
+
+---
+
+## 🧩 What I'm Focused On
+
+```text
+DSA & Problem Solving
+        ↓
+C++ Fundamentals
+        ↓
+Full-Stack Development
+        ↓
+AI Integration
+        ↓
+Building Real-World Projects

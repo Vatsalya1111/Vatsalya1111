@@ -1,10 +1,6 @@
 <div align="center">
-  <img src="profile_classic_loading_glow.gif" width="300" alt="Vatsalya Gupta">
+  <img src="profile_classic_loading_glow.gif" width="240" alt="Vatsalya Gupta">
 </div>
-
-
-
-
 
 
 

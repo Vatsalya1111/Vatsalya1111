@@ -1,6 +1,16 @@
 <div align="center">
+  <img src="profile_classic_loading_glow.gif" width="300" alt="Vatsalya Gupta">
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=header&text=Vatsalya%20Gupta&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&color=0:111827,100:2563eb" alt="Vatsalya Gupta header"/>
+
+
+
+
+
+
+<div align="center">
+
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=header&text=Vatsalya%20Gupta&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&color=0:111827,100:2563eb" alt="Vatsalya Gupta header"/> -->
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=AIML+Undergraduate+%7C+Software+Developer;C%2B%2B+%7C+Web+Development+%7C+AI;Building+practical+software+and+learning+by+shipping" alt="Typing introduction"/>
 
